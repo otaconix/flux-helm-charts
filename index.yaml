@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  flux2:
+  - annotations:
+      artifacthub.io/changes: |
+        - "[Chore]: Update App Version to upstream 2.2.3"
+    apiVersion: v2
+    appVersion: 2.3.0
+    created: "2024-06-16T14:47:14.80951149+02:00"
+    description: A Helm chart for flux2
+    digest: 4231a2c35db75ab0661043829307050c0352b2b5c82cc91482a19df54a52172b
+    name: flux2
+    sources:
+    - https://github.com/fluxcd-community/helm-charts
+    type: application
+    urls:
+    - flux2-2.13.0.tgz
+    version: 2.13.0
+generated: "2024-06-16T14:47:14.805948215+02:00"
